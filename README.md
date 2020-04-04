@@ -4,7 +4,7 @@ This is a page represents Anson Lee and Jay Nayee's life. Viewers can click on t
 ### Getting Started
 This is a basic HTML/ CSS/ JavaScript build. If you don't know what any of these are, start here: www.mozilla.com
 
-###Prerequisites
+### Prerequisites
 Just an editor and Git!
 
 ### Author
